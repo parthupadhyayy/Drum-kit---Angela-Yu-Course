@@ -1,4 +1,4 @@
-# Drum kit - Angela Yu Course
+# Drum kit 
  A simple drum play game
 
 ## [Click Here to Play the Game](https://parthupadhyayy.github.io/Drum-kit---Angela-Yu-Course/)
